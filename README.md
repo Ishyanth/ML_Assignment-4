@@ -11,7 +11,7 @@ c. Train and predict the model.
 d. Calculating the mean_squared error  
 e. Visualizing both train and test data using scatter plot.  
   
-2. Apply K means clustering in the dataset 
+2. Apply K means clustering in the dataset  
 a. Removing any null values by the mean.  
 b. Using the elbow method to find a good number of clusters with the K-Means algorithm  
 c. Calculating the silhouette score for the above clustering  
